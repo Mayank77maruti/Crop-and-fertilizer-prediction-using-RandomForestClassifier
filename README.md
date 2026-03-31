@@ -2,7 +2,7 @@ Dataset used - https://www.kaggle.com/datasets/mayankmohapatra77/crop-and-fertil
 
 Result:-
 
-=== CROP MODEL ===
+     CROP MODEL
 Model Accuracy: 99.70%
 Classification Report:
               precision    recall  f1-score   support
@@ -51,9 +51,8 @@ Classification Report:
 weighted avg       1.00      1.00      1.00       330
 
 
-=============================================
    CROP & FERTILIZER RECOMMENDATION SYSTEM
-=============================================
+
 Enter Nitrogen (N) value       : 60
 Enter Phosphorus (P) value     : 50
 Enter Potassium (K) value      : 20
@@ -65,9 +64,9 @@ Enter Rainfall (mm)            : 90
 Available soil types: ['Black', 'Clayey', 'Loamy', 'Sandy', 'Sandy Loam']
 Enter Soil Type                : Loamy
 
-=============================================
+
            PREDICTION RESULTS
-=============================================
+
   Recommended Crop       : maize
   Recommended Fertilizer : 10-10-10
-=============================================
+
